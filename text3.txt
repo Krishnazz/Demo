@@ -1,1 +1,1 @@
-text3 file
+This is text3 file
